@@ -1,3 +1,4 @@
+![img](images/sisyphus.png)
 # Sisyphus
 A developer-friendly, lightweight workflow engine. Used to help programmers quickly achieve simple collaboration.
 
